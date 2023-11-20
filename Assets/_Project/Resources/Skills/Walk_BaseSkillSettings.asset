@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d9473a42ca7f94a9b5015700f20b59, type: 3}
+  m_Name: Walk_BaseSkillSettings
+  m_EditorClassIdentifier: 
+  <Data>k__BackingField:
+    <Type>k__BackingField: 0
+    <Name>k__BackingField: "\u0411\u0430\u0437\u0430"
+    <IsUnforgettable>k__BackingField: 1
+    <IsLearnedByDefault>k__BackingField: 1
+    <SkillPointsPrice>k__BackingField: 0
+  <DependentSkills>k__BackingField:
+  - {fileID: 11400000, guid: a4e2e30540656874185555b598dae141, type: 2}
+  - {fileID: 11400000, guid: 1e5f661851347294184fa4a9386031c6, type: 2}
+  - {fileID: 11400000, guid: b3ad71a488025714fbe445dc98bb4815, type: 2}
+  - {fileID: 11400000, guid: db629d02927837e49bb8b0fc205de144, type: 2}
+  - {fileID: 11400000, guid: d2647feec0935614b976780d6dfdb936, type: 2}
